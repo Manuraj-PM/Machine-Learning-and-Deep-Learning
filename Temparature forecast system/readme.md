@@ -1,4 +1,4 @@
-#Temperature Forecast System Using Linear Regression
+# Temperature Forecast System Using Linear Regression
 
 ◦ Temperature forecast based on LDAPS model data set using linear regression with L1 and L2 penalty.
 
