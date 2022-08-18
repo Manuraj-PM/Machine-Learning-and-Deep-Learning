@@ -1,6 +1,6 @@
 Stress Prediction at Office Environment using Deep Learning
 
 
-Implemented a Multi-Layer Feed Forward Neural network to identify stress condition of an office employee.
+Performed data pre-processing and extracted new features as a part of feature engineering.
 
-Performed data processing and correlation analysis for feature selection.
+Implemented Multi-Layer Feed Forward Neural Network to identify stress condition of an office employee.
